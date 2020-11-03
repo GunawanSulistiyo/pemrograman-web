@@ -1,0 +1,43 @@
+.home .jumbotron{
+    background-image:url(slider2.jpg);
+    background-size:cover;
+    height:750px;
+    text-align: center;
+}
+.jumbotron .display-4{
+color: white;
+font-family: 'source sarif pro';
+margin-top: 50px;
+margin-bottom: 100px;
+}
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+ }
+
+.jdl1{
+    font-family:'source sarif pro';
+    margin-left: 100px;    
+}
+.img1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.row .jumbotron{
+    height:750px;
+    text-align: center; 
+}
+
+.img2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20px;
+    height: 20px;
+}
